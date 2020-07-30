@@ -1,4 +1,4 @@
-# 2020-07-30-git-collaboration-kaned
+# 2020-07-30-git-collaboration-kaned  - this is a different title
 basic
 
 ## Branches
@@ -11,6 +11,7 @@ basic
 
 - git siwthc -c <new_branch>  : create and mve to a new brnach
 
+## Pull Request (online merge)
 - git log --oneline --graph --all --graph : shows you your git history tree
   - you can look up how ot set this as a git alias
 
