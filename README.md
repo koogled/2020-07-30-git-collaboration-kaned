@@ -1,4 +1,4 @@
-# 2020-07-30-git-collaboration-kaned
+# git-collaboration-kaned
 basic
 
 ## Branches
