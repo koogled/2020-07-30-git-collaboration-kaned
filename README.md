@@ -21,3 +21,5 @@ basic
 - git branch -d <branch_name> : removes brmach from your local computer
 
 - Pull request : when you push a branch to the remote and then merge the brnach back into master
+
+A stashed change
