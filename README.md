@@ -1,2 +1,5 @@
 # 2020-07-30-git-collaboration-kaned
-basics
+basic
+
+## Branches
+   here is some info on branchess
