@@ -1,4 +1,6 @@
-# 2020-07-30-git-collaboration-kaned  - this is a different title
+
+# git-collaboration-kaned
+
 basic
 
 ## Branches
